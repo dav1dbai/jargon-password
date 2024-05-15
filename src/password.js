@@ -45,6 +45,7 @@ function Password() {
             </a>
         </div>
         <div className='font-quicksand flex flex-col justify-center items-center h-screen bg-background-blue'>
+        <p className='py-4 font-bold text-black'>Enter a 8+ character password.</p>
             <div>
                 <p className='font-bold'>Password</p>
                 <input
