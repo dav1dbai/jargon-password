@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import './App.css';
 import {supabase} from './supabase.js'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { useState, useEffect } from 'react'
